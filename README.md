@@ -1,4 +1,4 @@
-This is my internship at **Vikram Sarabhai Space Centre (VSSC), ISRO, Trivandrum**, under **Mr. Shanbhag Sushanth Suresh (Scientist/Engineer SC, CVAD/SDEG/STR).
+This is my internship report at **Vikram Sarabhai Space Centre (VSSC), ISRO, Trivandrum**, under **Mr. Shanbhag Sushanth Suresh (Scientist/Engineer SC, CVAD/SDEG/STR)**.
 
 ### **SDOF System Analysis:**
 I studied linear and nonlinear SDOF systems using MATLAB to solve differential equations, plotting **displacement vs. time** and **phase portraits**. Nonlinear cases involved variable stiffness, and I used **FFT** to determine natural frequencies.
